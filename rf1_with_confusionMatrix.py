@@ -18,7 +18,7 @@ import os
 
 
 # Import dataset 
-data_set = "datasetTest"
+data_set = "dataset"
 # directory = tflow.keras.utils.get_file('dataset', origin=data_set, untar=True)
 directory = data_set
 data_dir = pathlib.Path(directory)
